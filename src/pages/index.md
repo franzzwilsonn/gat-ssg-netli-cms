@@ -7,10 +7,8 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Kaldi es la tienda de café para todos los que creen que el buen café no solo debe saber bien, sino que también debe funcionar. Obtenemos todos nuestros frijoles directamente de agricultores sustentables a pequeña escala y nos aseguramos de que parte de las ganancias se reinviertan en sus comunidades.
+    
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
